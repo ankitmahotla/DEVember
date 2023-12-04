@@ -5,7 +5,9 @@ export default function index() {
   return (
     <View>
       <Stack.Screen options={{ title: "Day 1" }} />
-      <Text>Day 1</Text>
+      <Text style={{ fontFamily: "AmaticBold", fontSize: 100 }}>
+        Day Details Screen
+      </Text>
     </View>
   );
 }
