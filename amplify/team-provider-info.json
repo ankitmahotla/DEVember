@@ -10,6 +10,11 @@
       "StackName": "amplify-devember-dev-151738",
       "StackId": "arn:aws:cloudformation:ap-south-1:716371820902:stack/amplify-devember-dev-151738/26f31590-a0af-11ee-9e40-0209b5cf7d74",
       "AmplifyAppId": "derv5dvi2999w"
+    },
+    "categories": {
+      "auth": {
+        "devember7f0e9805": {}
+      }
     }
   }
 }
